@@ -8,7 +8,6 @@ import time
 
 numero = 0
 
-
 # Codigo estah pulando numeros, e repetindo numeros entre threads
 
 def p1():
